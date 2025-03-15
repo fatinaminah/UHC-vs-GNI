@@ -1,7 +1,7 @@
 
 # Visualizing Scatterplot on Kaggle: Universal Health Coverage vs. Gross National Income
 
-Scatterplots are powerful tools for visualizing correlations between two variables, offering insights into their relationships. This article explores the relationship between Universal Health Coverage (UHC) and Gross National Income (GNI), using Kaggle’s platform to visualize the data._
+Scatterplots are powerful tools for visualizing correlations between two variables, offering insights into their relationships. This article explores the relationship between Universal Health Coverage (UHC) and Gross National Income (GNI), using Kaggle’s platform to visualize the data.
 
 **Understanding the Relationship Between UHC and GNI**
 
