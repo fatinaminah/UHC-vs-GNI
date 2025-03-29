@@ -108,4 +108,3 @@ Using Matplotlib, I wrote the following code to visualize the relationship betwe
 
 Each dot represents a single country (i=185 countries), with the horizontal x-axis showing GNI and the vertical y-axis showing the UHC-SCI score. The plot indicates that countries with higher GNI, such as the United States, China, Canada, the United Kingdom, and Japan, tend to have higher UHC-SCI scores compared to lower-income countries. In general, as GNI increases, so does the UHC service score.
 
-Hope this guide helps you on your data visualization journey!
