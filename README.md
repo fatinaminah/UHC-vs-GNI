@@ -1,13 +1,13 @@
 
 # Visualizing Scatterplot on Kaggle: Universal Health Coverage vs. Gross National Income
 
-Scatterplots are powerful tools for visualizing correlations between two variables, offering insights into their relationships. This article explores the relationship between Universal Health Coverage (UHC) and Gross National Income (GNI), using Kaggle’s platform to visualize the data.
+Scatter plots serve as robust data visualization tools for establishing the correlation of two variables and their relationship context. This article tries to view Universal Health Coverage (UHC) and Gross National Income (GNI) on Kaggle in a data visualization perspective.
 
 **Understanding the Relationship Between UHC and GNI**
 
-> UHC ensures that everyone has access to essential healthcare services without experiencing financial hardship. It is a key element of the Sustainable Development Goals (SDGs), specifically highlighted in SDG 3.8. Meanwhile, GNI represents a country’s total income, reflecting its economic strength. Examining the relationship between these factors helps uncover disparities in healthcare systems and economic development worldwide.
+> UHC is the condition in which all people can access basic health services without suffering financial hardship. UHC is a pertinent factor in the Sustainable Development Goals (SDGs) and is specifically mentioned in SDG 3.8. On the other hand, GNI is the gross income of a country in terms of its economic strength. Through this relationship, we approach disparities in healthcare systems and economic development on a worldwide scale.
 
-For those new to Kaggle, we will go through the step-by-step process of visualizing this data.
+For the new folks on Kaggle, we will walk through the step-by-step visualization of this data.
 
 # **Step-by-Step Guide**
 
